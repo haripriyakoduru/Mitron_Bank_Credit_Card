@@ -32,8 +32,8 @@ The dataset used for this project was publicly available on the Codebasics websi
 
 Based on the analysis, the following conclusions and recommendations are drawn:
 
-- Age (25-45)
-- Gender, and marital status do not significantly impact preferred spending categories.
+- Key clients fall within the age range of 25-45.
+- Gender and marital status do not significantly impact key clients, as top preferred spending categories remain consistent.
 - Salaried employees and freelancers are key clients.
 - Key client locations: Mumbai, Delhi, and Bengaluru.
 - Delhi is a significant market; focus on increasing the client base in this region.
