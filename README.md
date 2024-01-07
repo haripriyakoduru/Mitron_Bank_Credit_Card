@@ -7,7 +7,7 @@
    - [Data Sources](#data-sources)
    - [Tools Used](#tools-used)
    - [Skills Demonstrated](#skills-demonstrated)
-- [Live Power BI Dashboard](#live-power-bi-dashboard)
+- [Power BI Dashboard](#power-bi-dashboard)
 - [Conclusion and Recommendations](#conclusion-and-recommendations)
 
 ## Introduction
@@ -29,7 +29,7 @@ The dataset used for this project was publicly available on the Codebasics websi
 - Statistical analysis
 - Problem solving
 
-## Live Power BI Dashboard
+## Power BI Dashboard
 
 https://www.novypro.com/project/customer-analysis---mitron-bank-credit-card-power-bi
 
